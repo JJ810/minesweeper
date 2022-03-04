@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game Board Should render correctly and match with snapshot 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+>
+  Welcome! Press Start button to get started!
+</p>
+`;
